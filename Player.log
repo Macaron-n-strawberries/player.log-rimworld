@@ -1,0 +1,685 @@
+Mono path[0] = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Managed'
+Mono config path = 'C:/Program Files (x86)/Steam/steamapps/common/RimWorld/MonoBleedingEdge/etc'
+Initialize engine version: 2019.4.30f1 (e8c891080a1f)
+[Subsystems] Discovering subsystems at path C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/UnitySubsystems
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3060 Laptop GPU (ID=0x2520)
+    Vendor:   
+    VRAM:     5996 MB
+    Driver:   32.0.15.6636
+Begin MonoManager ReloadAssembly
+- Completed reload, in  0.156 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.387700 ms
+RimWorld 1.5.4297 rev1079 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: roolo.RunAndGun. Ignoring the duplicates.
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\1204108550
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2537590749 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried loading mod with the same packageId multiple times: roolo.RunAndGun. Ignoring the duplicates.
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\1204108550
+C:\Program Files (x86)\Steam\steamapps\workshop\content\294100\2537590749 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B4D5C6B030.dll
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B4D5F01070.dll
+[VanillaAchievementsExpanded] version 1.4.9034 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] version 11.0.4 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[HugsLib] early-initializing AllowTool 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CombatExtended :: Applying compatibility patch for RunAndGun, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+patched 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Harmony_GenRadial_RadialPatternCount :: Info: Post GenRadial patch maximum radius: 119.4194 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+CE: Loading Mod Part 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B504B2DD00.dll
+DubsMintMenus v1.3.1086 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RimHUD v1.15.3] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[VehicleAutoParking] Harmony patches have been applied successfully. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Interaction Bubbles v3.1] Initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Tried to use an uninitialized DefOf of type TimeAssignmentDefOf. DefOfs are initialized right after all defs all loaded. Uninitialized DefOfs will return only nulls. (hint: don't use DefOfs as default field values in Defs, try to resolve them in ResolveReferences() instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Fallback handler could not load library C:/Program Files (x86)/Steam/steamapps/common/RimWorld/RimWorldWin64_Data/Mono/data-000001B504EC63D0.dll
+[GFM] Camera+ found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Altered Carbon 2: ReSleeved] version 6.0.2-Sov-rev5 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name intricate in this XML block: <ThingDef Name="ChipResourceBase" ParentName="ResourceBase" Abstract="True"><soundInteract>Metal_Drop</soundInteract><soundDrop>Standard_Drop</soundDrop><techLevel>Ultra</techLevel><intricate>true</intricate><stackLimit>1</stackLimit><healthAffectsPrice>false</healthAffectsPrice><statBases><MaxHitPoints>100</MaxHitPoints><MarketValue>4000</MarketValue><Mass>1</Mass><Flammability>0.25</Flammability><DeteriorationRate>2.0</DeteriorationRate></statBases><intricate>true</intricate><thingCategories><li>QM_Chip</li></thingCategories><tradeTags><li>QM_Chip</li></tradeTags></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name layers in this XML block: <apparel><wornGraphicPath>Things/Pawn/Humanlike/Apparel/Gunlink/Gunlink</wornGraphicPath><renderSkipFlags><li>None</li></renderSkipFlags><countsAsClothingForNudity>false</countsAsClothingForNudity><bodyPartGroups Inherit="False"><li>Ears</li><li>Eyes</li></bodyPartGroups><tags Inherit="False"><li>Gunlink</li></tags><layers Inherit="False"><li>EyeCover</li></layers><layers Inherit="False"><li>StrappedHead</li></layers></apparel>
+
+Root node: <ThingDef ParentName="ApparelArmorHelmetReconBase"><defName>Apparel_Gunlink</defName><label>gunlink</label><description>A targeting computer that helps the user aim. It detects and analyzes targets using infrared, visible, and millimeter-wave electromagnetic sensors. An onboard targeting computer displays firing solutions on a retinal projection. It offers no protection at all.</description><graphicData><texPath>Things/Pawn/Humanlike/Apparel/Gunlink/Gunlink</texPath><graphicClass>Graphic_Single</graphicClass></graphicData><equippedStatOffsets Inherit="False"><AimingAccuracy>0.6</AimingAccuracy><ShootingAccuracyPawn>1.5</ShootingAccuracyPawn></equippedStatOffsets><statBases><ArmorRating_Sharp>0.01</ArmorRating_Sharp><ArmorRating_Blunt>0.01</ArmorRating_Blunt><ArmorRating_Heat>0</ArmorRating_Heat><Insulation_Cold>0</Insulation_Cold><Insulation_Heat>0</Insulation_Heat><NightVisionEfficiency_Apparel>0.80</NightVisionEfficiency_Apparel></statBases><recipeMaker><researchPrerequisite>Gunlink</researchPrerequisite><displayPriority>400</displayPriority></recipeMaker><costList Inherit="false"><ComponentSpacer>1</ComponentSpacer><Plasteel>10</Plasteel></costList><apparel><wornGraphicPath>Things/Pawn/Humanlike/Apparel/Gunlink/Gunlink</wornGraphicPath><renderSkipFlags><li>None</li></renderSkipFlags><countsAsClothingForNudity>false</countsAsClothingForNudity><bodyPartGroups Inherit="False"><li>Ears</li><li>Eyes</li></bodyPartGroups><tags Inherit="False"><li>Gunlink</li></tags><layers Inherit="False"><li>EyeCover</li></layers><layers Inherit="False"><li>StrappedHead</li></layers></apparel><tradeTags><li>Clothing</li></tradeTags><thingSetMakerTags Inherit="False"><li>RewardStandardLowFreq</li></thingSetMakerTags><comps Inherit="False"><li Class="CompProperties_Biocodable" /><li Class="CompProperties_Forbiddable" /><li Class="CompProperties_Styleable" /><li><compClass>CompColorable</compClass></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name soundInteract in this XML block: <ThingDef ParentName="BaseHumanMakeableGun"><defName>QM_CricketHG</defName><label>Cricket</label><soundInteract>Reload_QM_Pistol1</soundInteract><description>This rudimentary compact pistol is made from stamped sheet metal and simple shooting mechanism. The short barrel and lack of aiming sight makes this horrible for anything other than spitting distance. Despite these drawbacks the relative easy to produce them in mass and conceal them made it favored by Civil Resistance. Often smuggled into hands of labourers to arm them on mass. Main objective of this pistol is to be discarded after killing the armed guard, as in that point the labourer would have access to far better weapon.</description><techLevel>Industrial</techLevel><graphicData><texPath>Things/WeaponRanged/QM_Cricket</texPath><graphicClass>Graphic_Single</graphicClass></graphicData><soundInteract>Interact_Autopistol</soundInteract><weaponTags Inherit="False"><li>CivilResSideArm</li><li>CivilResPistolTier1</li><li>CE_Sidearm</li><li>CE_OneHandedWeapon</li></weaponTags><statBases><Bulk>1.0</Bulk><Mass>1.5</Mass><RangedWeapon_Cooldown>0.3</RangedWeapon_Cooldown><SightsEfficiency>0.7</SightsEfficiency><ShotSpread>0.1</ShotSpread><SwayFactor>1.05</SwayFactor><WorkToMake>4000</WorkToMake></statBases><costList><Steel>40</Steel><ComponentIndustrial>1</ComponentIndustrial></costList><verbs><li Class="CombatExtended.VerbPropertiesCE"><verbClass>CombatExtended.Verb_ShootCE</verbClass><hasStandardCommand>true</hasStandardCommand><defaultProjectile>QM_Bullet_9mmC_FMJ</defaultProjectile><warmupTime>0.3</warmupTime><range>15.9</range><burstShotCount>1</burstShotCount><ticksBetweenBurstShots>4</ticksBetweenBurstShots><soundCast>Shot_QM_Pistol</soundCast><soundCastTail>GunTail_Light</soundCastTail><muzzleFlashScale>9</muzzleFlashScale><recoilAmount>1.05</recoilAmount></li></verbs><tools><li Class="CombatExtended.ToolCE"><label>grip</label><capacities><li>Blunt</li></capacities><power>2</power><cooldownTime>1.54</cooldownTime><chanceFactor>1.5</chanceFactor><armorPenetrationBlunt>0.555</armorPenetrationBlunt><linkedBodyPartsGroup>Grip</linkedBodyPartsGroup></li><li Class="CombatExtended.ToolCE"><label>muzzle</label><capacities><li>Poke</li></capacities><power>2</power><cooldownTime>1.54</cooldownTime><armorPenetrationBlunt>0.555</armorPenetrationBlunt><linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup></li></tools><recipeMaker><unfinishedThingDef>UnfinishedTechArmor</unfinishedThingDef><researchPrerequisite>QM_GuerrillaWeaponMan</researchPrerequisite><skillRequirements><Crafting>5</Crafting></skillRequirements><recipeUsers Inherit="False"><li>TableMachining</li></recipeUsers><displayPriority>503</displayPriority></recipeMaker><comps><li Class="CombatExtended.CompProperties_AmmoUser"><magazineSize>6</magazineSize><reloadTime>2</reloadTime><ammoSet>QM_AmmoSet_9mmC</ammoSet></li><li Class="CombatExtended.CompProperties_FireModes"><aiUseBurstMode>TRUE</aiUseBurstMode><aiAimMode>AimedShot</aiAimMode></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+XML error: Duplicate XML node name soundInteract in this XML block: <ThingDef ParentName="BaseHumanMakeableGun"><defName>QM_RedOutcastAR</defName><label>Red Outcast</label><description>An a modified Rogue Assault rifle painted in the color of Civil Resistance and renamed into Red Outcast. The drum magazine and laser pointer made the relatively well rounded assault rifle into a light machine gun. With sustained fire it can supress entire corridors while still being easy to maneuver with.</description><techLevel>Industrial</techLevel><soundInteract>Reload_QM_AssaultRifle</soundInteract><equippedAngleOffset>45</equippedAngleOffset><graphicData><texPath>Things/WeaponRanged/QM_RedOutcast</texPath><graphicClass>Graphic_Single</graphicClass></graphicData><soundInteract>Interact_Rifle</soundInteract><recipeMaker><researchPrerequisites><li>QM_GuerrillaWeaponMan</li><li>GasOperation</li></researchPrerequisites><skillRequirements><Crafting>8</Crafting></skillRequirements><recipeUsers Inherit="False"><li>TableMachining</li></recipeUsers><displayPriority>492</displayPriority></recipeMaker><statBases><Mass>3</Mass><RangedWeapon_Cooldown>0.4</RangedWeapon_Cooldown><SightsEfficiency>1.7</SightsEfficiency><ShotSpread>0.05</ShotSpread><SwayFactor>1.3</SwayFactor><Bulk>6</Bulk><WorkToMake>30000</WorkToMake></statBases><costList><Steel>110</Steel><ComponentIndustrial>8</ComponentIndustrial></costList><verbs><li Class="CombatExtended.VerbPropertiesCE"><recoilAmount>1.3</recoilAmount><verbClass>CombatExtended.Verb_ShootCE</verbClass><hasStandardCommand>true</hasStandardCommand><defaultProjectile>QM_Bullet_797C_FMJ</defaultProjectile><warmupTime>1.4</warmupTime><range>69</range><burstShotCount>6</burstShotCount><ticksBetweenBurstShots>8</ticksBetweenBurstShots><soundCast>Shot_QM_MediumAR</soundCast><soundCastTail>GunTail_Medium</soundCastTail><muzzleFlashScale>9</muzzleFlashScale></li></verbs><weaponTags Inherit="False"><li>CivilResMainArm</li><li>CivilResMainBasArm</li><li>CivilResRifleTier1</li><li>CE_AI_AR</li></weaponTags><tools><li Class="CombatExtended.ToolCE"><label>stock</label><capacities><li>Blunt</li></capacities><power>8</power><cooldownTime>1.55</cooldownTime><chanceFactor>1.5</chanceFactor><armorPenetrationBlunt>2.755</armorPenetrationBlunt><linkedBodyPartsGroup>Stock</linkedBodyPartsGroup></li><li Class="CombatExtended.ToolCE"><label>barrel</label><capacities><li>Blunt</li></capacities><power>5</power><cooldownTime>2.02</cooldownTime><armorPenetrationBlunt>1.630</armorPenetrationBlunt><linkedBodyPartsGroup>Barrel</linkedBodyPartsGroup></li><li Class="CombatExtended.ToolCE"><label>muzzle</label><capacities><li>Poke</li></capacities><power>8</power><cooldownTime>1.55</cooldownTime><armorPenetrationBlunt>2.755</armorPenetrationBlunt><linkedBodyPartsGroup>Muzzle</linkedBodyPartsGroup></li></tools><comps><li Class="CombatExtended.CompProperties_AmmoUser"><magazineSize>40</magazineSize><reloadTime>4</reloadTime><ammoSet>QM_AmmoSet_797C</ammoSet></li><li Class="CombatExtended.CompProperties_FireModes"><aimedBurstShotCount>3</aimedBurstShotCount><aiUseBurstMode>TRUE</aiUseBurstMode><aiAimMode>AimedShot</aiAimMode></li></comps></ThingDef> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 140.15 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 32.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Cassandra:Core\Defs\Storyteller\Storytellers.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 140.15 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 32.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Phoebe:Core\Defs\Storyteller\Storytellers.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 140.15 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 32.1 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 14.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 4.2 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Randy:Core\Defs\Storyteller\Storytellers.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 6.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RN2Gun_ZEKE_GAU8Autocannon:[RH2] Faction: Militaires Sans Frontieres\1.5\Defs\ThingDefs_Mechs\Mech_Security_Turrets.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Ears:[RH2] Faction: Militaires Sans Frontieres\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 30.9 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RNGun_M134_GattlingGun:[RH2] Faction: Militaires Sans Frontieres\1.5\Defs\ThingDefs_Weapons\RangedIndustrial_MG.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Ears:[RH2] Faction: The Rangers\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Ears:[RH2] Rimmu-Nation² - Clothing\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Neck:[RH2] Rimmu-Nation² - Clothing\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Jaw:[RH2] Rimmu-Nation² - Clothing\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Ears:HE-Cold War US Military\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Neck:HE-Cold War US Military\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Jaw:HE-Cold War US Military\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Ears:HE-Law Enforcement Pack\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Neck:HE-Law Enforcement Pack\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 197.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RH2_Jaw:HE-Law Enforcement Pack\1.5\Defs\ThingDefs_Misc\BodyPartGroups.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.9 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.8 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] RT_TestAT:RimThunder - Liberty of Delivery\1.5\Defs\VehicleDefs\ATgun.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Parsed 0.5 as int. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Def Error] Bullet_9M311_SAM:The Dead Man's Switch\1.5\CE\Defs\76mm_9M311.xml
+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named MeleeHit_Wood_Sharp found to give to Verse.StuffProperties Verse.StuffProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named MeleeHit_Wood_Blunt found to give to Verse.StuffProperties Verse.StuffProperties (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Reload_Standard found to give to MVCF.Reloading.Comps.VerbCompProperties_Reloadable MVCF.Reloading.Comps.VerbCompProperties_Reloadable (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.SoundDef named Reload_Standard found to give to MVCF.Reloading.Comps.VerbCompProperties_Reloadable MVCF.Reloading.Comps.VerbCompProperties_Reloadable (using undefined sound instead) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No Verse.ResearchProjectDef named QM_LegendsWeaponMan found to give to Verse.RecipeMakerProperties Verse.RecipeMakerProperties 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not resolve cross-reference: No RimWorld.StatDef named PartialArmorBody found to give to RimWorld.StatModifier (null stat) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not load UnityEngine.Texture2D at Things/WeaponRanged/QM_Hawk in any active mod or in base resources. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not execute post-long-event action. Exception: System.NullReferenceException: Object reference not set to an instance of an object
+[Ref 9789454C]
+ at Verse.GlobalTextureAtlasManager.TryInsertStatic (Verse.TextureAtlasGroup group, UnityEngine.Texture2D texture, UnityEngine.Texture2D mask) [0x00000] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Graphic_Single.TryInsertIntoAtlas (Verse.TextureAtlasGroup groupKey) [0x00036] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.Graphic_RandomRotated.TryInsertIntoAtlas (Verse.TextureAtlasGroup group) [0x00000] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.ThingDef.<PostLoad>b__379_0 () [0x00043] in <69945a8ed6c540cf90b578de735e0605>:0 
+ at Verse.LongEventHandler.ExecuteToExecuteWhenFinished () [0x0007c] in <69945a8ed6c540cf90b578de735e0605>:0  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Translation data for language English has 224 errors. Generate translation report for more info. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Ancient mining industry contains 21 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] Fortification Industrial - Citadel contains 1 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[KCSG] The Dead Man's Switch contains 5 missing symbols. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Combat Extended :: Ammo injected 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.SmashTools] Successfully applied compatibility patches for <color=#008080FF>RimHUD</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Combat Extended</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Map Preview</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Real Ruins</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>Geological Landforms</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>RimHUD</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[SmashPhil.VehicleFramework] Successfully applied compatibility patches for <color=#008080FF>RimNauts 2</color> 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=orange>[VehicleFramework]</color> version 1.5.1704 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+PickUpAndHaul v1.1.2¼ welcomes you to RimWorld with pointless logspam. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Universum (v2.4.0) has successfully loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        65 defs found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        13 utilities found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        20 biomes found, 14 configurations found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        411 terrains found, 3 configurations found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        237 genes found, 0 configurations found 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        AssetBundle loading has finished, found windows platform 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+        Applied patch to Camera+ 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+RimNauts 2 (v5.4.0) has successfully loaded. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Wall Light: v1.5.8874.26767 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+War Crimes Expanded 2 loaded! 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rimbody Found CE 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Rimbody patched CE  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Altered Carbon] Activated mod compat for  
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[CMColorCodedMoodBar] CMColorCodedMoodBar 1.5.4062.1 initialized 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[TrueTerrainColors v1.12.17] Loaded cached true colors for 757 terrain defs from file. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#b48af5>[IAintBuildingThat]</color> Making all Verse.TerrainDefs hideable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+<color=#b48af5>[IAintBuildingThat]</color> Making all Verse.ThingDefs hideable 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: RealRuins started patching at 12/22/2024 4:33:51 AM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: RealRuins performing manual patching optional mods at 12/22/2024 4:33:51 AM 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: SRTS not found, skipping... 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[RealRuins][System]: RealRuins finished patching at 12/22/2024 4:33:51 AM (40.9656 msec) 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Found landform data in the following mods: Geological Landforms 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+[Geological Landforms v1.7] Loaded 44 landforms of which 0 are edited and 0 are custom. 
+(Filename: C:\buildslave\unity\build\Runtime/Export/Debug/Debug.bindings.h Line: 39)
+
+Could not allocate memory: System out of memory!
+Trying to allocate: 357913940B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 32992B | peak: 0B | reserved: 6160384B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 32505856B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 1148090196B | peak: 0B | reserved: 1165602816B 
+[ ALLOC_GFX ] used: 2614130317B | peak: 0B | reserved: 2639536128B 
+[ ALLOC_CACHEOBJECTS ] used: 139513392B | peak: 0B | reserved: 144703488B 
+[ ALLOC_TYPETREE ] used: 503392B | peak: 0B | reserved: 4194304B 
+Could not allocate memory: System out of memory!
+Trying to allocate: 357913940B with 16 alignment. MemoryLabel: NewDelete
+Allocation happened at: Line:0 in Overloaded New[]
+Memory overview
+
+[ ALLOC_TEMP_THREAD ] used: 32992B | peak: 0B | reserved: 6160384B 
+[ ALLOC_TEMP_JOB_1_FRAME ] used: 0B | peak: 0B | reserved: 32505856B 
+[ ALLOC_TEMP_JOB_2_FRAMES ] used: 0B | peak: 0B | reserved: 1048576B 
+[ ALLOC_TEMP_JOB_4_FRAMES ] used: 0B | peak: 0B | reserved: 2097152B 
+[ ALLOC_TEMP_JOB_ASYNC ] used: 0B | peak: 0B | reserved: 5242880B 
+[ ALLOC_DEFAULT ] used: 1148090196B | peak: 0B | reserved: 1165602816B 
+[ ALLOC_GFX ] used: 2614130317B | peak: 0B | reserved: 2639536128B 
+[ ALLOC_CACHEOBJECTS ] used: 139513392B | peak: 0B | reserved: 144703488B 
+[ ALLOC_TYPETREE ] used: 503392B | peak: 0B | reserved: 4194304B 
+ 
+(Filename:  Line: 1507)
+
+Crash!!!
+SymInit: Symbol-SearchPath: '.;C:\Program Files (x86)\Steam\steamapps\common\RimWorld;C:\Program Files (x86)\Steam\steamapps\common\RimWorld;C:\WINDOWS;C:\WINDOWS\system32;SRV*C:\websymbols*http://msdl.microsoft.com/download/symbols;', symOptions: 534, UserName: 'macie'
+OS-Version: 10.0.0
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64.exe:RimWorldWin64.exe (00007FF7D25C0000), size: 667648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\SYSTEM32\ntdll.dll:ntdll.dll (00007FFE4E5F0000), size: 2191360 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\Program Files\Avast Software\Avast\aswhook.dll:aswhook.dll (00007FFDD26E0000), size: 106496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 24.12.9725.0
+C:\WINDOWS\System32\KERNEL32.DLL:KERNEL32.DLL (00007FFE4DB40000), size: 802816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\WINDOWS\System32\KERNELBASE.dll:KERNELBASE.dll (00007FFE4B940000), size: 3907584 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\UnityPlayer.dll:UnityPlayer.dll (00007FFDAD9F0000), size: 27037696 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2019.4.30.51345
+C:\WINDOWS\System32\USER32.dll:USER32.dll (00007FFE4D920000), size: 1761280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\win32u.dll:win32u.dll (00007FFE4C170000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4601
+C:\WINDOWS\System32\GDI32.dll:GDI32.dll (00007FFE4D8F0000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4036
+C:\WINDOWS\System32\gdi32full.dll:gdi32full.dll (00007FFE4C1A0000), size: 1159168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\WINDOWS\System32\msvcp_win.dll:msvcp_win.dll (00007FFE4C050000), size: 630784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3374
+C:\WINDOWS\System32\ucrtbase.dll:ucrtbase.dll (00007FFE4BF30000), size: 1118208 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3593
+C:\WINDOWS\System32\ole32.dll:ole32.dll (00007FFE4D0C0000), size: 1724416 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3958
+C:\WINDOWS\System32\combase.dll:combase.dll (00007FFE4D560000), size: 3731456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\RPCRT4.dll:RPCRT4.dll (00007FFE4E490000), size: 1130496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4249
+C:\WINDOWS\SYSTEM32\VERSION.dll:VERSION.dll (00007FFE46A60000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\System32\SHLWAPI.dll:SHLWAPI.dll (00007FFE4E2C0000), size: 385024 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\msvcrt.dll:msvcrt.dll (00007FFE4DCA0000), size: 684032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 7.0.22621.2506
+C:\WINDOWS\System32\SETUPAPI.dll:SETUPAPI.dll (00007FFE4C320000), size: 4669440 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\System32\ADVAPI32.dll:ADVAPI32.dll (00007FFE4E3D0000), size: 729088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\WINDOWS\System32\sechost.dll:sechost.dll (00007FFE4D270000), size: 684032 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\bcrypt.dll:bcrypt.dll (00007FFE4C2C0000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\System32\SHELL32.dll:SHELL32.dll (00007FFE4C7B0000), size: 8880128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\OLEAUT32.dll:OLEAUT32.dll (00007FFE4DD50000), size: 880640 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\WINDOWS\System32\IMM32.dll:IMM32.dll (00007FFE4E110000), size: 200704 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3374
+C:\WINDOWS\SYSTEM32\WINMM.dll:WINMM.dll (00007FFE478D0000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\OPENGL32.dll:OPENGL32.dll (00007FFDC3930000), size: 1048576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\CRYPT32.dll:CRYPT32.dll (00007FFE4BDC0000), size: 1466368 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\WS2_32.dll:WS2_32.dll (00007FFE4DC20000), size: 462848 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\GLU32.dll:GLU32.dll (00007FFDC38E0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\SYSTEM32\HID.DLL:HID.DLL (00007FFE4A110000), size: 57344 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\WINHTTP.dll:WINHTTP.dll (00007FFE47790000), size: 1269760 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\dxcore.dll:dxcore.dll (00007FFE48EF0000), size: 225280 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\Program Files (x86)\Steam\gameoverlayrenderer64.dll:gameoverlayrenderer64.dll (00007FFDCF6F0000), size: 1671168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\WINDOWS\System32\PSAPI.DLL:PSAPI.DLL (00007FFE4DC10000), size: 32768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\CFGMGR32.dll:CFGMGR32.dll (00007FFE4B4C0000), size: 319488 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\SYSTEM32\kernel.appcore.dll:kernel.appcore.dll (00007FFE4A900000), size: 98304 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3958
+C:\WINDOWS\System32\bcryptPrimitives.dll:bcryptPrimitives.dll (000001B366CD0000), size: 503808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4317
+C:\WINDOWS\system32\uxtheme.dll:uxtheme.dll (00007FFE48DA0000), size: 724992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\shcore.dll:shcore.dll (00007FFE4E000000), size: 1024000 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\windows.storage.dll:windows.storage.dll (00007FFE49800000), size: 9469952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4601
+C:\WINDOWS\SYSTEM32\wintypes.dll:wintypes.dll (00007FFE496C0000), size: 1306624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
+C:\WINDOWS\SYSTEM32\profapi.dll:profapi.dll (000001B487090000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\MonoBleedingEdge\EmbedRuntime\mono-2.0-bdwgc.dll:mono-2.0-bdwgc.dll (00007FFDC9DF0000), size: 7790592 (result: 0), SymType: '-deferred-', PDB: ''
+C:\WINDOWS\SYSTEM32\iphlpapi.dll:iphlpapi.dll (00007FFE4A3B0000), size: 184320 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\System32\MSCTF.dll:MSCTF.dll (00007FFE4E150000), size: 1445888 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4601
+C:\WINDOWS\SYSTEM32\d3d11.dll:d3d11.dll (00007FFE46520000), size: 2453504 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\dxgi.dll:dxgi.dll (00007FFE48F30000), size: 1011712 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4036
+C:\WINDOWS\SYSTEM32\directxdatabasehelper.dll:directxdatabasehelper.dll (00007FFE445F0000), size: 299008 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmi.inf_amd64_7cee395598d7f1af\nvldumdx.dll:nvldumdx.dll (00007FFE26050000), size: 802816 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 32.0.15.6636
+C:\WINDOWS\SYSTEM32\msasn1.dll:msasn1.dll (00007FFE4B030000), size: 73728 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\SYSTEM32\cryptnet.dll:cryptnet.dll (00007FFE445B0000), size: 204800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\cryptbase.dll:cryptbase.dll (00007FFE4AFF0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\wldp.dll:wldp.dll (00007FFE4B0A0000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\drvstore.dll:drvstore.dll (00007FFE448C0000), size: 1449984 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\devobj.dll:devobj.dll (00007FFE4B490000), size: 180224 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\System32\wintrust.dll:wintrust.dll (00007FFE4B8C0000), size: 466944 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\imagehlp.dll:imagehlp.dll (00007FFE4DFE0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\CRYPTSP.dll:CRYPTSP.dll (00007FFE4AFD0000), size: 110592 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\WINDOWS\system32\rsaenh.dll:rsaenh.dll (00007FFE4A860000), size: 217088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4249
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmi.inf_amd64_7cee395598d7f1af\nvgpucomp64.dll:nvgpucomp64.dll (00007FFE23090000), size: 47251456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 32.0.15.6636
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmi.inf_amd64_7cee395598d7f1af\Display.NvContainer\NvMessageBus.dll:NvMessageBus.dll (00007FFE404F0000), size: 3506176 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 3.12.3354.5005
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmi.inf_amd64_7cee395598d7f1af\nvwgf2umx.dll:nvwgf2umx.dll (00007FFE1EBA0000), size: 71815168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 32.0.15.6636
+C:\WINDOWS\SYSTEM32\powrprof.dll:powrprof.dll (00007FFE4B790000), size: 315392 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3958
+C:\WINDOWS\SYSTEM32\UMPDC.dll:UMPDC.dll (00007FFE4B770000), size: 77824 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\system32\nvspcap64.dll:nvspcap64.dll (00007FFE1C4B0000), size: 3125248 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 11.0.1.184
+C:\WINDOWS\SYSTEM32\ntmarta.dll:ntmarta.dll (00007FFE4AA10000), size: 212992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\System32\DriverStore\FileRepository\nvhmi.inf_amd64_7cee395598d7f1af\nvppex.dll:nvppex.dll (00007FFE1C150000), size: 1396736 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 32.0.15.6636
+C:\WINDOWS\System32\clbcatq.dll:clbcatq.dll (00007FFE4DF30000), size: 720896 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2001.12.10941.16384
+C:\WINDOWS\system32\wbem\wbemprox.dll:wbemprox.dll (00007FFE437C0000), size: 65536 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\WINDOWS\SYSTEM32\wbemcomn.dll:wbemcomn.dll (00007FFE40B30000), size: 524288 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\system32\wbem\wbemsvc.dll:wbemsvc.dll (00007FFE3D240000), size: 81920 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3672
+C:\WINDOWS\system32\wbem\fastprox.dll:fastprox.dll (00007FFE3F240000), size: 1015808 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\amsi.dll:amsi.dll (00007FFE2EAD0000), size: 118784 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3527
+C:\WINDOWS\SYSTEM32\USERENV.dll:USERENV.dll (00007FFE4AE70000), size: 163840 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3527
+C:\Program Files\Avast Software\Avast\aswAMSI.dll:aswAMSI.dll (00007FFE2BEA0000), size: 987136 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 24.12.9725.0
+C:\WINDOWS\System32\MMDevApi.dll:MMDevApi.dll (00007FFE3BF90000), size: 647168 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4111
+C:\WINDOWS\SYSTEM32\AUDIOSES.DLL:AUDIOSES.DLL (00007FFE357B0000), size: 2023424 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\resourcepolicyclient.dll:resourcepolicyclient.dll (00007FFE493A0000), size: 86016 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3527
+C:\WINDOWS\SYSTEM32\xinput1_3.dll:xinput1_3.dll (0000000000400000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.18.944.0
+C:\WINDOWS\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\aticfx64.dll:aticfx64.dll (00007FFE3F8B0000), size: 1814528 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.21921.1000
+C:\WINDOWS\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\atiuxp64.dll:atiuxp64.dll (00007FFE3F6A0000), size: 233472 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.21921.1000
+C:\WINDOWS\System32\DriverStore\FileRepository\u0407052.inf_amd64_84d15514ad17ffa0\B406619\atidxx64.dll:atidxx64.dll (00007FFE3D2C0000), size: 32972800 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 31.0.21921.1000
+C:\WINDOWS\SYSTEM32\apphelp.dll:apphelp.dll (00007FFE47500000), size: 618496 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4391
+C:\WINDOWS\SYSTEM32\amdihk64.dll:amdihk64.dll (00007FFE3D1D0000), size: 217088 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 2.0.0.1788
+C:\WINDOWS\SYSTEM32\dcomp.dll:dcomp.dll (00007FFE467E0000), size: 2445312 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\dwmapi.dll:dwmapi.dll (00007FFE49040000), size: 176128 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\textinputframework.dll:textinputframework.dll (00007FFE327C0000), size: 1331200 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\Program Files (x86)\Steam\steamapps\common\RimWorld\RimWorldWin64_Data\Plugins\x86_64\steam_api64.dll:steam_api64.dll (00007FFE45EC0000), size: 311296 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 6.91.21.57
+C:\Program Files (x86)\Steam\steamclient64.dll:steamclient64.dll (00007FFDAA540000), size: 23834624 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\Program Files (x86)\Steam\vstdlib_s64.dll:vstdlib_s64.dll (00007FFE13250000), size: 753664 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\WINDOWS\SYSTEM32\Secur32.dll:Secur32.dll (00007FFE4A6D0000), size: 49152 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Program Files (x86)\Steam\tier0_s64.dll:tier0_s64.dll (00007FFDC9C50000), size: 1683456 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 9.38.28.26
+C:\WINDOWS\SYSTEM32\MSWSOCK.dll:MSWSOCK.dll (00007FFE4AD80000), size: 430080 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\SYSTEM32\SSPICLI.DLL:SSPICLI.DLL (00007FFE4AB60000), size: 274432 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
+C:\Windows\System32\Windows.UI.dll:Windows.UI.dll (00007FFE324A0000), size: 1560576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\TextShaping.dll:TextShaping.dll (00007FFE2F050000), size: 724992 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\SYSTEM32\Msacm32.DLL:Msacm32.DLL (00007FFE36200000), size: 122880 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\winmmbase.dll:winmmbase.dll (00007FFE1B760000), size: 167936 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\Windows\System32\l3codeca.acm:l3codeca.acm (00007FFE33DF0000), size: 114688 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 1.9.0.401
+C:\WINDOWS\System32\NSI.dll:NSI.dll (00007FFE4C7A0000), size: 36864 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\dhcpcsvc6.DLL:dhcpcsvc6.DLL (00007FFE47690000), size: 102400 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\SYSTEM32\dhcpcsvc.DLL:dhcpcsvc.DLL (00007FFE475B0000), size: 126976 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.2506
+C:\WINDOWS\SYSTEM32\DNSAPI.dll:DNSAPI.dll (00007FFE4A430000), size: 1056768 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4541
+C:\WINDOWS\System32\fwpuclnt.dll:fwpuclnt.dll (00007FFE44F70000), size: 536576 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.4249
+C:\Windows\System32\rasadhlp.dll:rasadhlp.dll (00007FFE32490000), size: 40960 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.1
+C:\WINDOWS\SYSTEM32\gpapi.dll:gpapi.dll (00007FFE4AE10000), size: 155648 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3810
+C:\WINDOWS\SYSTEM32\dbghelp.dll:dbghelp.dll (00007FFE43820000), size: 2301952 (result: 0), SymType: '-deferred-', PDB: '', fileVersion: 10.0.22621.3593
+
+========== OUTPUTTING STACK TRACE ==================
+
+0x00007FFDAE7C42BB (UnityPlayer) UnityMain
+0x00007FFDAE7C3DCA (UnityPlayer) UnityMain
+0x00007FFDADF7F202 (UnityPlayer) UnityMain
+0x00007FFDADF7D0CE (UnityPlayer) UnityMain
+0x00007FFDADF7CCD3 (UnityPlayer) UnityMain
+0x00007FFDAE084491 (UnityPlayer) UnityMain
+0x00007FFDAE379097 (UnityPlayer) UnityMain
+0x000001B50E3EC809 (Mono JIT Code) (wrapper managed-to-native) UnityEngine.Texture2D:Compress (UnityEngine.Texture2D,bool)
+0x000001B51A77C3CB (Mono JIT Code) Verse.StaticTextureAtlas:Bake (bool)
+0x000001B51A77AF8B (Mono JIT Code) Verse.GlobalTextureAtlasManager:<BakeStaticAtlases>g__FlushBatch|7_0 (Verse.TextureAtlasGroupKey,Verse.GlobalTextureAtlasManager/<>c__DisplayClass7_0&)
+0x000001B51A77A3FB (Mono JIT Code) Verse.GlobalTextureAtlasManager:BakeStaticAtlases ()
+0x000001B50F79E433 (Mono JIT Code) Verse.PlayDataLoader/<>c:<DoPlayLoad>b__4_4 ()
+0x000001B34250B21C (Mono JIT Code) Verse.LongEventHandler:ExecuteToExecuteWhenFinished ()
+0x000001B34250B8D3 (Mono JIT Code) Verse.LongEventHandler:UpdateCurrentAsynchronousEvent ()
+0x000001B4FFF7F773 (Mono JIT Code) Verse.LongEventHandler:LongEventsUpdate (bool&)
+0x000001B503FFA4F3 (Mono JIT Code) (wrapper dynamic-method) MonoMod.Utils.DynamicMethodDefinition:Verse.Root.Update_Patch1 (Verse.Root)
+0x000001B4FFF8F57B (Mono JIT Code) Verse.Root_Entry:Update ()
+0x000001B4D1932470 (Mono JIT Code) (wrapper runtime-invoke) object:runtime_invoke_void__this__ (object,intptr,intptr,intptr)
+0x00007FFDC9F1E270 (mono-2.0-bdwgc) mono_get_runtime_build_info
+0x00007FFDC9EA2AE2 (mono-2.0-bdwgc) mono_perfcounters_init
+0x00007FFDC9EABB3F (mono-2.0-bdwgc) mono_runtime_invoke
+0x00007FFDAE2C606D (UnityPlayer) UnityMain
+0x00007FFDAE2C3443 (UnityPlayer) UnityMain
+0x00007FFDAE2AC603 (UnityPlayer) UnityMain
+0x00007FFDAE2AC6BD (UnityPlayer) UnityMain
+0x00007FFDAE038110 (UnityPlayer) UnityMain
+0x00007FFDAE1863C7 (UnityPlayer) UnityMain
+0x00007FFDAE186463 (UnityPlayer) UnityMain
+0x00007FFDAE1888BC (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FFDADF3751E)
+0x00007FFDADF3751E (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FFDADF3627A)
+0x00007FFDADF3627A (UnityPlayer) (function-name not available)
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FFDADF3A32C)
+0x00007FFDADF3A32C (UnityPlayer) (function-name not available)
+0x00007FFDADF3DE1B (UnityPlayer) UnityMain
+  ERROR: SymGetSymFromAddr64, GetLastError: 'Próbowano uzyskać dostęp do nieprawidłowego adresu.' (Address: 00007FF7D25C11F2)
+0x00007FF7D25C11F2 (RimWorldWin64) (function-name not available)
+0x00007FFE4DB5259D (KERNEL32) BaseThreadInitThunk
+0x00007FFE4E64AF38 (ntdll) RtlUserThreadStart
+
+========== END OF STACKTRACE ===========
+
+A crash has been intercepted by the crash handler. For call stack and other details, see the latest crash report generated in:
+ * C:/Users/macie/AppData/Local/Temp/Ludeon Studios/RimWorld by Ludeon Studios/Crashes
