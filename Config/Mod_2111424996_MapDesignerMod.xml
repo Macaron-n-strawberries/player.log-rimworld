@@ -1,0 +1,59 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="MapDesigner.MapDesignerSettings">
+		<configs />
+		<hillRadialAmt>1</hillRadialAmt>
+		<densityOre>1.123377</densityOre>
+		<oreCommonality>
+			<keys>
+				<li>MineableSteel</li>
+				<li>MineableSilver</li>
+				<li>MineableGold</li>
+				<li>MineableUranium</li>
+				<li>MineablePlasteel</li>
+				<li>MineableJade</li>
+				<li>MineableComponentsIndustrial</li>
+				<li>MineableHP_Adamantium</li>
+				<li>MineableHP_Auramite</li>
+				<li>MineableHP_Ceramite</li>
+				<li>TKKN_MinableAmber</li>
+				<li>TKKN_MinablePetrifiedWood</li>
+			</keys>
+			<values>
+				<li>1.098592</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1.06338</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+				<li>1</li>
+			</values>
+		</oreCommonality>
+		<allowedRocks>
+			<keys>
+				<li>Sandstone</li>
+				<li>Granite</li>
+				<li>Limestone</li>
+				<li>Slate</li>
+				<li>Marble</li>
+				<li>TKKN_LavaRock</li>
+			</keys>
+			<values>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+				<li>True</li>
+			</values>
+		</allowedRocks>
+		<terrainFert>1.065089</terrainFert>
+		<flagTerrainWater>True</flagTerrainWater>
+		<niSize>0.75</niSize>
+	</ModSettings>
+</SettingsBlock>

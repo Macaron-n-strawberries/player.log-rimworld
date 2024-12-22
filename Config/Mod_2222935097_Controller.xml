@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimWar.Options.Settings">
+		<useRimWarVictory>True</useRimWarVictory>
+		<maxFactionObjects>100</maxFactionObjects>
+		<heatFrequency>3000</heatFrequency>
+		<noPermanentEnemies>False</noPermanentEnemies>
+		<threadingEnabled>True</threadingEnabled>
+		<allowDropPodRaids>True</allowDropPodRaids>
+	</ModSettings>
+</SettingsBlock>

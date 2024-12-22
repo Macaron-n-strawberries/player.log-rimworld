@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="TechLevelProgression.TechLevelProgressionSettings">
+		<ResearchPercentPrecise>
+			<li>0.25</li>
+			<li>0.25</li>
+			<li>0.5</li>
+			<li>0.5</li>
+			<li>0.6</li>
+			<li>0.65</li>
+			<li>0.75</li>
+			<li>0.75</li>
+		</ResearchPercentPrecise>
+		<TechLevelDecrease>False</TechLevelDecrease>
+	</ModSettings>
+</SettingsBlock>

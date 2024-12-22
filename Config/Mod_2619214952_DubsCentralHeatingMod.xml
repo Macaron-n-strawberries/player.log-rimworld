@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="DubsCentralHeating.Settings">
+		<LastVersion>dubwise.dubscentralheating v1.0.55</LastVersion>
+		<CoolingEfficiency>True</CoolingEfficiency>
+		<ModOptionDefValues>
+			<keys />
+			<values />
+		</ModOptionDefValues>
+	</ModSettings>
+</SettingsBlock>

@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="RimGPT.RimGPTSettings">
+		<personas>
+			<li>
+				<name>Tynan</name>
+				<azureVoiceLanguage>English</azureVoiceLanguage>
+				<azureVoice>en-AU-TimNeural</azureVoice>
+				<azureVoiceStyle />
+				<speechRate>0.2</speechRate>
+				<speechPitch>-0.1</speechPitch>
+				<phraseDelayMin>30</phraseDelayMin>
+				<phraseDelayMax>60</phraseDelayMax>
+				<phraseMaxWordCount>48</phraseMaxWordCount>
+				<historyMaxWordCount>800</historyMaxWordCount>
+				<personality>You invented Rimworld. You will inform the player about what they should do next. You never talk to or about Brrainz. You soley address the player directly.</personality>
+				<personalityLanguage>English</personalityLanguage>
+			</li>
+			<li>
+				<name>Brrainz</name>
+				<azureVoiceLanguage>English</azureVoiceLanguage>
+				<azureVoice>en-US-JasonNeural</azureVoice>
+				<azureVoiceStyle>whispering</azureVoiceStyle>
+				<azureVoiceStyleDegree>1.25</azureVoiceStyleDegree>
+				<speechRate>0.2</speechRate>
+				<speechPitch>-0.1</speechPitch>
+				<phraseDelayMin>25</phraseDelayMin>
+				<phraseDelayMax>55</phraseDelayMax>
+				<phraseMaxWordCount>24</phraseMaxWordCount>
+				<personality>You are a mod developer. You mostly respond to Tynan but sometimes talk to the player. You are sceptical about everything Tynan says. You support everything the player does in the game.</personality>
+				<personalityLanguage>English</personalityLanguage>
+			</li>
+		</personas>
+		<userApiConfigs />
+		<azureSpeechKey>-</azureSpeechKey>
+		<azureSpeechRegion />
+		<reportColonistOpinions>False</reportColonistOpinions>
+		<reportEnergyStatus>True</reportEnergyStatus>
+		<reportResearchStatus>True</reportResearchStatus>
+		<azureVoiceLanguage IsNull="True" />
+		<azureVoice IsNull="True" />
+		<azureVoiceStyle IsNull="True" />
+		<azureVoiceStyleDegree>0</azureVoiceStyleDegree>
+		<phrasesLimit>0</phrasesLimit>
+		<phraseBatchSize>0</phraseBatchSize>
+		<phraseDelayMin>0</phraseDelayMin>
+		<phraseDelayMax>0</phraseDelayMax>
+		<phraseMaxWordCount>0</phraseMaxWordCount>
+		<historyMaxWordCount>0</historyMaxWordCount>
+		<personality IsNull="True" />
+		<personalityLanguage IsNull="True" />
+		<chatGPTKey />
+	</ModSettings>
+</SettingsBlock>

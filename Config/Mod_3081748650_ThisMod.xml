@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Sincere.Settings">
+		<Enabled>True</Enabled>
+		<WindowWidth>340</WindowWidth>
+		<WindowHeight>220</WindowHeight>
+		<ModDescription>Spawns colonists when there aren't enough</ModDescription>
+		<SaveDataJSON>{"minCount":"3"}</SaveDataJSON>
+	</ModSettings>
+</SettingsBlock>

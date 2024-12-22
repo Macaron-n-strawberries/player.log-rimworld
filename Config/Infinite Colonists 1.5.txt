@@ -1,0 +1,6 @@
+HighScore=1
+PublishedFileId=3081748650
+SaveDataJSON=
+WindowHeight=155
+WindowWidth=730
+MinCount=2

@@ -1,0 +1,1257 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="Vehicles.VehiclesModSettings">
+		<main />
+		<vehicles>
+			<fieldSettings>
+				<li>
+					<key>AncientJeep</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>LC70_ToyotaLandCruiser2door_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>LC70_ToyotaLandCruiser4door_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>MZ_MobileWorker</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_BangBus</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Bunsen</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Dinghy</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Dirtbike</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Frog</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Highwayman</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Mule</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Prowler</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Roadkill</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Traveller</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Bulldog</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Charley</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Mosquito</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Roadrunner</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Smuggler</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Snatcher</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Tango</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Trawler</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Wagon</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Warbird</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Wisent</key>
+					<innerKeys>
+						<li>
+							<name>fuelConsumptionWorldMultiplier</name>
+							<classType>Vehicles.CompProperties_FueledTravel</classType>
+							<defHashCode>-1595884064</defHashCode>
+						</li>
+					</innerKeys>
+					<innerValues>
+						<li Type="System.Single" SavedField="True">(1.2,1.2)</li>
+					</innerValues>
+				</li>
+				<li>
+					<key>VVE_HighMacsVI</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_HighMacsVIGatling</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Scytheman</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Toad</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Bicycle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Chain_Saw_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Circular_Saw_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Electric_Saw_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Ripper_Saw_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Striker_CAV_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Harley_Davidson_WLA_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M18_Hellcat</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M3A1_Stuart_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M4A3E8_Sherman</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M4A3R3_Zippo</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M8_Greyhound_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Willys_JEEP</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_GAZ63_Truck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_GAZ64_Car</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_KV_1_HeavyTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_T_27_Tankette</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_T_38_LightTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M1075_HEMTT</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M113_APC</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M113M_APC</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M1A2_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M48H_MediumTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_BatteringRam</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_BigBread</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Cruiser</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Crusher</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_DumpTruck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Fellowtown</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_FireWall</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Katyusha</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_PipeOrgan</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Porter</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_ShoppingCart</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Sturmgeschutz</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Tachanka</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>TC_Vasilek</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BTR40_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BTR40A_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type62_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type63_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ZTS63_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ZTZ59_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>ZA_Sealion</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>ZA_trashtra</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>ZA_trashtraG</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>ZA_scalbots</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>BDS_Aurora_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>ZVP_LCM_Zippo</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Badger</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_BigRig</key>
+					<innerKeys>
+						<li>
+							<name>fuelConsumptionWorldMultiplier</name>
+							<classType>Vehicles.CompProperties_FueledTravel</classType>
+							<defHashCode>689330890</defHashCode>
+						</li>
+					</innerKeys>
+					<innerValues>
+						<li Type="System.Single" SavedField="True">(0.7,0.7)</li>
+					</innerValues>
+				</li>
+				<li>
+					<key>VVE_Cherokee</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Hermano</key>
+					<innerKeys>
+						<li>
+							<name>fuelConsumptionWorldMultiplier</name>
+							<classType>Vehicles.CompProperties_FueledTravel</classType>
+							<defHashCode>-2001770380</defHashCode>
+						</li>
+					</innerKeys>
+					<innerValues>
+						<li Type="System.Single" SavedField="True">(0.8,0.8)</li>
+					</innerValues>
+				</li>
+				<li>
+					<key>VVE_Lightning</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Louie</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Marshal</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Nomad</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Paladin</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Springbok</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Udar</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Burya</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Goliath</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>XCOM_Skyranger</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Albatross</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Freighter</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Pelican</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Phoenix</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_Skip</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>VVE_TEKSeven</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_AstartesBike</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_AstraMilitarumBike</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_Chimera</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_DropPod</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_LemanRuss</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>OverlordGunshippawn</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_Predator</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_Rhino</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GW_Taurox</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Valkyriepawn</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CGF1_VG_K151_MG_K6_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CGF1_VG_K151_MG_M60_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CGF1_VG_K151_CROWS_K6_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CGF1_VG_K151_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>SV_CVNinety</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RA_BMP2_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RA_Kamaz-5350_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RA_T72b3_</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CNW_Coyote</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CNW_Javelina</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CNW_LittleMule</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>CNW_Sidewinder</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>REVM_Mako</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_PantherG_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Pz38tG_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_PzIVH_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_SdKfz234_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_TigerE_Vehicle</key>
+					<innerKeys>
+						<li>
+							<name>fuelConsumptionWorldMultiplier</name>
+							<classType>Vehicles.CompProperties_FueledTravel</classType>
+							<defHashCode>-2100755740</defHashCode>
+						</li>
+					</innerKeys>
+					<innerValues>
+						<li Type="System.Single" SavedField="True">(1.3,1.3)</li>
+					</innerValues>
+				</li>
+				<li>
+					<key>RT_Wirbelwind_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Foxhound</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>EMKV90-TOR_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>M1A5_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ZBD86ce_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_PLZ83_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type85III_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ZSL92_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ZTZ88A_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Annihilator</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GF40K_LandRaider</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GF40K_LandRaiderRDMR</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GF40K_Rhino</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>GF40K_Whirlwind</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Destructor</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_C130_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_CH53E_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_UH60_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ZBD86_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Kubelwagen</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ObelBlitzA_Truck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ObelBlitzC_Truck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ObelBlitzP_Truck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_SdKfz251_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_SdKfz6_Truck</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_CVPI</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_CVPIKCSO</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_PDCVPI</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_CVIC</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_CVICTAXI</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FThreeFiveZero</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FThreeFiveZeroTwo</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_IsuzuSKW_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_ToyotaHMV_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type61_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type73_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type74_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type75_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type87_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Type99_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_CVPINYST</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_CVPISD</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BMP3_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BMPT_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_T80BVM_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HID_Navistar_M2HB</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BRDM2_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BTR80_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Churchill_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Cromwell_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Crusader_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Daimler_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Valentine_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Helldivers_M5APC_Pawn</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Helldivers_M5HAV_Pawn</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>Helldivers_Bastion_Pawn</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HID_JLTV</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M10_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M1A2SEP_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M2A3_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FE</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FPIU</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FPIUKCSO</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FPIUNYST</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FPIUPD</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_FPIUSD</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M1078_LMTV</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_MATV_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_BT5_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M72_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_RF8_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_T28_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_T34_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Boomerang_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Kurganets25_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_T90M_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_M998A</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_M998M151TOW</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_M998Heavy</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_M998Light</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_M998M2HB</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_M998Mk19Mod</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_BearCatG3C</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>HE_BearCatG3Police</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_TestAT</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_CH54_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M1000_HET</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M1070_HET</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M983_HEMTT</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_M983T</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Strv104_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Bkan1c_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Pbv302_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Veak40_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Ikv91_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>RT_Ush_405_Vehicle</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>DMS_ArmySteed_APC</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>DMS_Chameleon_TD</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>DMS_Chelydridae_MainBattleTank</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+				<li>
+					<key>DMS_Mule_ATV</key>
+					<innerKeys />
+					<innerValues />
+				</li>
+			</fieldSettings>
+			<vanillaStats />
+			<vehicleStats>
+				<li>
+					<key>RT_BRDM2_Vehicle</key>
+					<innerKeys>
+						<li>MoveSpeed</li>
+					</innerKeys>
+					<innerValues>
+						<li>12</li>
+					</innerValues>
+				</li>
+			</vehicleStats>
+			<defaultGraphics>
+				<keys />
+				<values />
+			</defaultGraphics>
+		</vehicles>
+		<debug />
+		<colorStorage>
+			<paletteColorOnes>
+				<li>RGBA(0.306, 0.329, 0.306, 1.000)</li>
+				<li>RGBA(0.569, 0.318, 0.259, 1.000)</li>
+				<li>RGBA(0.565, 0.545, 0.533, 1.000)</li>
+				<li>RGBA(0.533, 0.576, 0.753, 1.000)</li>
+				<li>RGBA(0.580, 0.580, 0.580, 1.000)</li>
+				<li>RGBA(0.502, 0.216, 0.216, 1.000)</li>
+				<li>RGBA(0.886, 0.843, 0.647, 1.000)</li>
+				<li>RGBA(0.412, 0.643, 0.565, 1.000)</li>
+				<li>RGBA(0.788, 0.804, 0.753, 1.000)</li>
+				<li>RGBA(0.361, 0.275, 0.118, 1.000)</li>
+				<li>RGBA(0.573, 0.537, 0.514, 1.000)</li>
+				<li>RGBA(0.451, 0.573, 0.580, 1.000)</li>
+				<li>RGBA(0.741, 0.714, 0.678, 1.000)</li>
+				<li>RGBA(0.549, 0.667, 0.482, 1.000)</li>
+				<li>RGBA(0.871, 0.741, 0.235, 1.000)</li>
+				<li>RGBA(0.208, 0.192, 0.188, 1.000)</li>
+				<li>RGBA(0.420, 0.443, 0.192, 1.000)</li>
+				<li>RGBA(0.937, 0.937, 0.937, 1.000)</li>
+				<li>RGBA(0.576, 0.537, 0.490, 1.000)</li>
+				<li>RGBA(0.580, 0.592, 0.459, 1.000)</li>
+			</paletteColorOnes>
+			<paletteColorTwos>
+				<li>RGBA(0.255, 0.263, 0.239, 1.000)</li>
+				<li>RGBA(0.557, 0.282, 0.263, 1.000)</li>
+				<li>RGBA(0.388, 0.365, 0.353, 1.000)</li>
+				<li>RGBA(0.396, 0.451, 0.569, 1.000)</li>
+				<li>RGBA(0.392, 0.392, 0.392, 1.000)</li>
+				<li>RGBA(0.263, 0.349, 0.699, 1.000)</li>
+				<li>RGBA(0.561, 0.478, 0.353, 1.000)</li>
+				<li>RGBA(0.345, 0.490, 0.467, 1.000)</li>
+				<li>RGBA(0.686, 0.698, 0.631, 1.000)</li>
+				<li>RGBA(0.290, 0.204, 0.063, 1.000)</li>
+				<li>RGBA(0.329, 0.294, 0.267, 1.000)</li>
+				<li>RGBA(0.345, 0.478, 0.475, 1.000)</li>
+				<li>RGBA(0.792, 0.769, 0.733, 1.000)</li>
+				<li>RGBA(0.349, 0.494, 0.275, 1.000)</li>
+				<li>RGBA(0.969, 0.843, 0.420, 1.000)</li>
+				<li>RGBA(0.333, 0.314, 0.302, 1.000)</li>
+				<li>RGBA(0.310, 0.341, 0.149, 1.000)</li>
+				<li>RGBA(0.722, 0.725, 0.722, 1.000)</li>
+				<li>RGBA(0.369, 0.302, 0.243, 1.000)</li>
+				<li>RGBA(0.451, 0.475, 0.353, 1.000)</li>
+			</paletteColorTwos>
+			<paletteColorThrees>
+				<li>RGBA(0.388, 0.271, 0.231, 1.000)</li>
+				<li>RGBA(0.333, 0.200, 0.157, 1.000)</li>
+				<li>RGBA(0.278, 0.259, 0.251, 1.000)</li>
+				<li>RGBA(0.380, 0.380, 0.424, 1.000)</li>
+				<li>RGBA(0.196, 0.196, 0.196, 1.000)</li>
+				<li>RGBA(0.722, 0.722, 0.722, 1.000)</li>
+				<li>RGBA(0.463, 0.380, 0.271, 1.000)</li>
+				<li>RGBA(0.337, 0.353, 0.376, 1.000)</li>
+				<li>RGBA(0.490, 0.518, 0.427, 1.000)</li>
+				<li>RGBA(0.667, 0.553, 0.388, 1.000)</li>
+				<li>RGBA(0.263, 0.239, 0.227, 1.000)</li>
+				<li>RGBA(0.227, 0.290, 0.278, 1.000)</li>
+				<li>RGBA(0.365, 0.345, 0.302, 1.000)</li>
+				<li>RGBA(0.200, 0.353, 0.125, 1.000)</li>
+				<li>RGBA(0.627, 0.502, 0.039, 1.000)</li>
+				<li>RGBA(0.141, 0.141, 0.141, 1.000)</li>
+				<li>RGBA(0.365, 0.243, 0.031, 1.000)</li>
+				<li>RGBA(0.776, 0.847, 0.902, 1.000)</li>
+				<li>RGBA(0.149, 0.114, 0.094, 1.000)</li>
+				<li>RGBA(0.839, 0.859, 0.259, 1.000)</li>
+			</paletteColorThrees>
+		</colorStorage>
+	</ModSettings>
+</SettingsBlock>

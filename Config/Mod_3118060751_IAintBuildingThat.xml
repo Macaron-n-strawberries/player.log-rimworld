@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SettingsBlock>
+	<ModSettings Class="IAintBuildingThat.Settings">
+		<hiddenBuildables>
+			<li>Turret_TwelvePounder</li>
+			<li>Turret_12PounderBombard</li>
+			<li>Turret_GatlingGun</li>
+			<li>Turret_OrganGun</li>
+			<li>VFEP_Turret_Cannon</li>
+			<li>VVE_Charley_Blueprint</li>
+			<li>RT_GAZ63_Truck_Blueprint</li>
+			<li>RT_Type63_Vehicle_Blueprint</li>
+			<li>VVE_Frog_Blueprint</li>
+			<li>RT_SdKfz234_Vehicle_Blueprint</li>
+			<li>RT_BMPT_Blueprint</li>
+			<li>VVE_Roadkill_Blueprint</li>
+		</hiddenBuildables>
+	</ModSettings>
+</SettingsBlock>
